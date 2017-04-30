@@ -133,6 +133,14 @@ a:visited {
   height: 400px;
 }
 
+#lisa-huang-card{
+  background-image: url("http://i.imgur.com/ch8lW8Z.jpg");
+}
+
+#lisa-huang-cover{
+  background-image: url("http://i.imgur.com/GEwh0zb.png");
+}
+
 #irina-afanaseva-cover {
     background-image: url("http://i.imgur.com/0mb6WMf.jpg");
 }
